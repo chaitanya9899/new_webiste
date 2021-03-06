@@ -29,6 +29,164 @@ img {
    
 }
 
+@media (max-width: 320px){
+  .hero-container{
+    margin-left: 40px;
+    margin-top: -100px;
+  }
+  .hero-container h1 {
+    font-size: 50px;
+  }
+  .bu{
+    margin: 80px -150px;
+
+  }
+  .twitter{
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .facebook{
+    
+  }
+  .twe{
+    margin-top: -20px;
+    margin-right: 10px;
+  }
+  .app{
+    margin:0px 10px;
+
+  }
+  .face{
+    margin: 10px;
+
+  }
+  .section-title{
+    margin-top: 0px;
+  }
+  .text-center{
+    /*size: 5px;*/
+
+  }
+  .phn-4{
+    margin-top:300px;
+    align-content: center;
+  }
+  .head-1 p {
+
+    /*font-size: 20px;*/
+  }
+}
+
+@media (max-width: 375px){
+  .hero-container{
+    margin-left: 50px;
+    margin-top: -100px;
+  }
+  .hero-container h1 {
+    font-size: 50px;
+  }
+  .bu{
+    margin: 80px -150px;
+
+  }
+  .twitter{
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .facebook{
+    
+  }
+  .twe{
+    margin-top: -20px;
+    margin-right: 10px;
+  }
+  .app{
+    margin:0px 10px;
+
+  }
+  .face{
+    margin: 10px;
+
+  }
+  .section-title{
+    margin-top: 0px;
+  }
+  .text-center{
+    /*size: 5px;*/
+
+  }
+  .phn-4{
+    margin-top:300px;
+    align-content: center;
+  }
+  .head-1 p {
+    
+    /*font-size: 20px;*/
+  }
+}
+
+@media (max-width: 414px){
+  .hero-container{
+    margin-left: 50px;
+    margin-top: -100px;
+  }
+  .hero-container h1 {
+    font-size: 50px;
+  }
+  .bu{
+    margin: 80px -150px;
+
+  }
+  .twitter{
+    margin-left: 10px;
+    margin-bottom: 20px;
+  }
+  .facebook{
+    
+  }
+  .twe{
+    margin-top: -20px;
+    margin-right: 10px;
+  }
+  .app{
+    margin:0px 10px;
+
+  }
+  .face{
+    margin: 10px;
+
+  }
+  .section-title{
+    margin-top: 0px;
+  }
+  .text-center{
+    /*size: 5px;*/
+
+  }
+  .phn-4{
+    margin-top:300px;
+    align-content: center;
+  }
+  .head-1 p {
+    
+    /*font-size: 20px;*/
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* .logo-sec {
 }
@@ -206,7 +364,7 @@ img {
  
 }
 .pr {
-  width: 400px;
+  /*width: 400px;*/
 }
   
 .head-1 p {
@@ -243,7 +401,7 @@ img {
 .phn-1 img {
     margin-top: -140px;
     /* margin-left: 80px; */
-    width: 220px;
+    width: 100%;
 
 }
 .phn-2 img {
@@ -327,7 +485,7 @@ img {
 .phn-3 img {
   margin-top: -160px;
   margin-left: 110px;
-  /*width: 220px;*/
+  width: 100%;
 }
 
 .dot-3 {
