@@ -1841,6 +1841,18 @@ section {
   }
 }
 
+@media(max-width: 320px){
+  .foot{
+    margin:10px 30px;
+  }
+
+@media(max-width: 320px){
+  .ico{
+    margin:30px 40px;
+  }
+}
+
+
 @media (max-width: 992px) {
   .breadcrumbs {
     margin-top: 50px;
